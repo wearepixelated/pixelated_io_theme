@@ -230,6 +230,11 @@
                         "font_style": null,
                         "font_weight": 700
                     },
+                    "operator": {
+                        "color": "#8D776E",
+                        "font_style": null,
+                        "font_weight": null
+                    },
                     "variable": {
                         "color": "#8D776E",
                         "background_color": null,
